@@ -1,2 +1,2 @@
-# H
-ello World
+(http://subjektiv.dk/files/subjektiv_logo_320w.png)
+subjektiv_logo_320w.png)
