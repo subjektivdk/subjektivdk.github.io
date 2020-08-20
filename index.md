@@ -1,6 +1,5 @@
-![](http://subjektiv.dk/files/subjektiv_logo_320w.png)
+![](https://github.com/subjektivdk/subjektivdk.github.io/blob/master/subjektiv_logo_320w.png)
   
-
 Martin Jensen  
 Mobile: +4551940911  
 Email: martin@subjektiv.dk  
