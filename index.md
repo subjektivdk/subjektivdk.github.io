@@ -4,4 +4,4 @@
 Martin Jensen  
 Mobile: +4551940911  
 Email: martin@subjektiv.dk  
-![LinkedIn:] (https://dk.linkedin.com/in/martinklt)
+![LinkedIn:](https://dk.linkedin.com/in/martinklt)
