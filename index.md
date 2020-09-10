@@ -1,4 +1,4 @@
-![](https://github.com/subjektivdk/subjektivdk.github.io/blob/master/subjektiv_logo_320w.png)
+![](http://subjektiv.dk/subjektiv_logo_320w.png)
 # [subjektiv.dk](https://subjektivdk.github.io/)
 
 Martin Jensen  
